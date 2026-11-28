@@ -8,6 +8,16 @@ The UX Review explores design, technology, digital culture, and creative ideas t
 
 [View Live Website](https://sandy-mohamed.github.io/The-UX-Review/)
 
+## Screenshots
+
+### Magazine homepage
+
+![Magazine homepage](screenshots/homepage.jpg)
+
+### Latest articles
+
+![Latest articles](screenshots/latest-articles.jpg)
+
 ## ✨ Features
 
 - Modern editorial and magazine-style design
