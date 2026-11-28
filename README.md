@@ -10,14 +10,6 @@ The UX Review explores design, technology, digital culture, and creative ideas t
 
 ## Screenshots
 
-### Magazine homepage
-
-![Magazine homepage](screenshots/homepage.jpg)
-
-### Latest articles
-
-![Latest articles](screenshots/latest-articles.jpg)
-
 ### Hero
 ![Bold hero with featured article](screenshots/01-hero.jpg)
 
